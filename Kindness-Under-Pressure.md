@@ -8,7 +8,7 @@ Objective: to bring about more kindness in open source development by unpacking 
 * Co-facilitators: 1-2
 * Pitch: "We've seen a few situations in our pull requests and interactions where perhaps we could have been kinder. We've invited you to join us in an experimental retrospective session so that we can talk about how our communications approach. We want to empower you to protect this great community culture and dynamic we've achieved, by hearing about your challenges under pressure and coming up with ways to conquer them."
 
-Steps:
+### Session Steps
 * Start off by setting the stage (who are we and why are we here), invoking no blame, and sharing personal anecdotes to establish parity/"we've been there."   
 * Ask the attendees for their impressions of those anecdotes, and the session topic overall. Ask them to describe what the session topic means to them, why they are attending, what they hope to learn/gain, and then volunteer their own moments of abruptness, assuming-too-soon, blaming, etc. 
 * Group discussion about why those moments didn't rise to the level of "kind, welcoming communication." Ask the group to name out loud the potential risks of communicating unkindly (lost contributors, trust, time being a few examples).
