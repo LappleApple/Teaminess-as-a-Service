@@ -4,7 +4,7 @@ Building communication, empathy and collaboration into your open source developm
 ## Primary Objective 
 Through a four-week, personalized pilot program, empower 1-2 [community name] community members and their teams to level-up their contributions and collaboration on at least one priority action item that they identify. 
 
-## The Pitch
+## The Pitch: Outreach Email Text
 If you’ve got an initiative or goal that you would like to achieve through the [specific technology] community, we’d like to help you by offering you the opportunity to participate in this experimental, four-week pilot. The programming offers you the opportunity to explore and gain insights on these facets of your workflow: 
 
 * Effective user research; 
@@ -15,6 +15,9 @@ If you’ve got an initiative or goal that you would like to achieve through the
 This offering is useful to any individuals or teams who are working on a feature or contribution prioritized by the technical community/project of interest; would like to work on a project but are struggling to get started; or who are generally new to open source development and want to experience it in a fun, fulfilling way.
 
 To volunteer for this experiment, please send an email briefly describing a goal that you and your team wish to achieve through your project participation; any obstacles or struggles you’re facing; how many participants you’ll bring from your side; and what you’re like to gain most from your participation.”
+
+## Alternative: Kindness in Communication Session
+For groups that have worked for a while, established a history together, and want to improve communication between members + newbies, [this kindness under pressure](https://github.com/LappleApple/Teaminess-as-a-Service/blob/master/Kindness-Under-Pressure.md) session can be a valuable first step.
 
 ## The Framework
 Over four weeks, meet with the participants for four 60/75-minute sessions.
