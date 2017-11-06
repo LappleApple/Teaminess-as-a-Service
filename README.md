@@ -1,4 +1,4 @@
-# Teaminess-as-a-Service
+# Teaminess-as-a-Service: An interactive experiment
 Building communication, empathy and collaboration into your open source development
 
 ## Primary Objective 
@@ -6,10 +6,11 @@ Through a four-week, personalized pilot program, empower 1-2 [community name] co
 
 ## The Pitch
 If you’ve got an initiative or goal that you would like to achieve through the [specific technology] community, we’d like to help you by offering you the opportunity to participate in this experimental, four-week pilot. The programming offers you the opportunity to explore and gain insights on these facets of your workflow: 
-— Effective user research; 
-— Making collaboration painless; 
-— Communicating clearly with proposals and documentation; 
-— Building teaminess
+
+* Effective user research; 
+* Making collaboration painless; 
+* Communicating clearly with proposals and documentation; 
+* Building teaminess
 
 This offering is useful to any individuals or teams who are working on a feature or contribution prioritized by the technical community/project of interest; would like to work on a project but are struggling to get started; or who are generally new to open source development and want to experience it in a fun, fulfilling way.
 
