@@ -1,5 +1,5 @@
 # Teaminess-as-a-Service: An interactive experiment
-Building communication, empathy and collaboration into your open source development
+Amplifying communication, empathy and collaboration in your open source development 
 
 ## Primary Objective 
 Through a four-week, personalized pilot program, empower 1-2 [community name] community members and their teams to level-up their contributions and collaboration on at least one priority action item that they identify. 
