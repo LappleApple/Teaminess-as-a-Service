@@ -32,4 +32,4 @@ Before the session, ask the participants about their top 1-2 process-related blo
 Review some basic templates (press release, vision doc, README) and have the group draft very simple examples for all three writing formats. Review their work through the end of the session, highlighting wins and areas for improvement.
 
 ### Building Teaminess
-This session is about “the feels.” We’ll focus on identifying team ingredients—different skills and values among the team members that make them stronger together. We’ll also do a retrospective exercise in which the team identifies strengths and internal risk factors that have come up during the previous three weeks and, by the end, have them identify action items to continuously improve.
+This session emphasizes trust-building and openness. We’ll focus on identifying team ingredients—different skills and values among the team members that make them stronger together. We’ll also do a retrospective exercise in which the team identifies strengths and internal risk factors that have come up during the previous three weeks and, by the end, have them identify action items to continuously improve.
