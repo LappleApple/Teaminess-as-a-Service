@@ -17,7 +17,7 @@ This offering is useful to any individuals or teams who are working on a feature
 To volunteer for this experiment, please send an email briefly describing a goal that you and your team wish to achieve through your project participation; any obstacles or struggles you’re facing; how many participants you’ll bring from your side; and what you’re like to gain most from your participation.”
 
 ## The Framework
-Over four weeks, meet with the participants virtually for four 60/75-minute sessions.
+Over four weeks, meet with the participants virtually for four 45-/60-minute retrospective-style sessions.
 
 ### Effective user research
 Before the session, ask the participants how they connect with users to verify hypotheses. Depending on their level of investment, either teach them the basics (focusing on why user research is important) or, if they’re beyond the basics, tricks and tips on how to generate more valuable feedback + integrate it into their development processes. 
@@ -29,7 +29,7 @@ Before the session, ask the participants about their top 1-2 process-related blo
 Review some basic templates (press release, vision doc, README) and have the group draft very simple examples for all three writing formats. Review their work through the end of the session, highlighting wins and areas for improvement.
 
 ### Building Teaminess
-This session emphasizes trust-building and openness. We’ll focus on identifying team ingredients—different skills and values among the team members that make them stronger together. We’ll also do a retrospective exercise in which the team identifies strengths and internal risk factors that have come up during the previous three weeks and, by the end, have them identify action items to continuously improve.
+This session emphasizes trust-building and openness. We’ll focus on identifying team ingredients—different skills and values among the team members that make them stronger together. We’ll also do a review of strengths and internal risk factors that have come up during the previous three weeks and, by the end, create a list of action items to continuously improve.
 
 ### Alternative First Session for Established Teams: "Communicating Kindly Under Pressure"
 For groups that have worked for a while, established a history together, and want to improve communication between members + newbies, [this kindness under pressure](https://github.com/LappleApple/Teaminess-as-a-Service/blob/master/Kindness-Under-Pressure.md) session can be a valuable first step.
